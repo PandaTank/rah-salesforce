@@ -71,7 +71,13 @@
     <fields>
         <fullName>Panda Rank</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>text</type>
+        <type>Text</type>
+    </fields>
+
+    <fields>
+        <fullName>Preferred Panda</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
 
     <fields>
