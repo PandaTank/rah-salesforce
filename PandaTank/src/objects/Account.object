@@ -67,6 +67,19 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
+
+    <fields>
+        <fullName>Panda Rank</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+    </fields>
+
+    <fields>
+        <fullName>Preferred Panda</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+
     <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
